@@ -1,4 +1,4 @@
-package example.rainy.example;
+package com.rainy.example;
 
 import org.junit.Test;
 

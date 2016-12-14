@@ -1,4 +1,4 @@
-package example.rainy.example;
+package com.rainy.example;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,7 +1,10 @@
-package example.rainy.example;
+package com.rainy.example.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.rainy.example.R;
+
 
 public class MainActivity extends AppCompatActivity {
 
